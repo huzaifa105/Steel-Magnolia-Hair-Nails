@@ -1,0 +1,8 @@
+{
+  "name": "Steel Magnolia Hair & Nails",
+  "description": "Premium salon and spa services in Longview, TX. Hair styling, coloring, advanced nail art, and luxury treatments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
